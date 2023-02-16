@@ -5,7 +5,7 @@ int main(int argc, char **argv) {
     gfxInitDefault();
     consoleInit(GFX_TOP, NULL);
 
-	printf("Test Code::Blocks project!");
+	printf("Hello from VS Code!");
 
 	printf("\x1b[20;15HPress Start to exit.");
 
